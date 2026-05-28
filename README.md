@@ -23,18 +23,17 @@ My focus is applied AI as real software — not just prompts or isolated demos, 
 - Physical-digital prototypes when software needs to connect with components or real-world processes
 
 ---
-
 ## Selected projects
 
-### AI Kiosk Agent Platform
+### [AI Kiosk Agent Platform](https://github.com/fosc19/ai-kiosk-agent-platform)
 
 Conversational AI kiosk architecture with Svelte UI, FastAPI WebSocket orchestration, voice/vision services, MCP-style tools, tracing and golden-flow tests.
 
-### AgentsMap Runtime
+### [AgentsMap Runtime](https://github.com/fosc19/agentsmap-runtime)
 
 Source-available portfolio demo for real-time agent-economy observability: PostgreSQL data model, Fastify API, synthetic activity worker and React network map.
 
-### CoopConsum
+### [CoopConsum](https://github.com/fosc19/coopconsum)
 
 Custom software for cooperative/operational workflows, business data and internal process management.
 
