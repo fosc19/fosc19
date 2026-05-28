@@ -60,7 +60,7 @@ Docker · Linux · GitHub Actions · Scheduled jobs · Deployments · Monitoring
 
 ## How I work
 
-I focus on understanding the real problem first, then designing a maintainable solution, building it, integrating it and making sure it stays running.
+I care about cost, latency, traceability, reliability and real-world usability — beyond making something work in a controlled demo.
 
 I care about cost, latency, traceability, reliability and real-world usability — not just shipping something that works on a good day.
 
