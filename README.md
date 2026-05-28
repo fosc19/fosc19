@@ -33,6 +33,10 @@ Conversational AI kiosk architecture with Svelte UI, FastAPI WebSocket orchestra
 
 Source-available portfolio demo for real-time agent-economy observability: PostgreSQL data model, Fastify API, synthetic activity worker and React network map.
 
+### [AI Image Workflow Studio](https://github.com/fosc19/ai-image-workflow-studio)
+
+Portfolio demo for AI image editing workflows: prompt-composer pipeline, headshot generation, identity-preserving edits and image transformation UI.
+
 ### [CoopConsum](https://github.com/fosc19/coopconsum)
 
 Custom software for cooperative/operational workflows, business data and internal process management.
